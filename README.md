@@ -3,6 +3,21 @@
 ## 🚀 About Me
 I'm a **Senior Laravel Developer** with over 5+ years of hands-on experience in building robust, and high-performance web applications. My passion for coding and dedication to continuous learning drive my approach to web development, allowing me to deliver innovative solutions that meet diverse client needs.
 
+- 💼 **Profession**: Senior Laravel Developer
+- 🌍 **Specialization**: 
+  - Microservices Architecture
+  - Load Balancing
+  - Caching Strategies
+  - Database Optimization
+  - Asynchronous Processing
+  - API Development
+  - Cloud Infrastructure
+  - Monitoring and Logging
+  - Security Best Practices
+  - Continuous Integration/Continuous Deployment (CI/CD)
+- 🎯 **Experience**: 5+ years
+
+
 # Key Skills
 
 - **PHP & Laravel:** Proficient in developing and maintaining complex applications with the Laravel framework.
@@ -19,10 +34,6 @@ I'm a **Senior Laravel Developer** with over 5+ years of hands-on experience in 
 
 - **Waterfall Methodology:** Experienced in traditional Waterfall approach for structured project planning and execution.
 
-
-- 💼 **Profession**: Senior Laravel Developer
-- 🌍 **Specialization**: CRM, ERP
-- 🎯 **Experience**: 5+ years
 
 ## 👀 I'm Interested In...
 - **Innovative Technologies**: Exploring the latest trends in web development.
@@ -42,10 +53,4 @@ I'm a **Senior Laravel Developer** with over 5+ years of hands-on experience in 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Neeraj Saini](https://www.linkedin.com/in/neeraj-saini/)
 - **Twitter**: [@socreativeneeraj](https://twitter.com/socreativeneeraj)
-- **Email**: neeraj.saini@example.com
-
-## 😄 Pronouns
-- He/Him
-
-## ⚡ Fun Fact
-- **Tech Enthusiast**: I once built a custom CRM system from scratch in just 48 hours during a hackathon!
+- **Email**: hax-neeraj@outlook.com
