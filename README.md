@@ -35,20 +35,21 @@ I'm a **Senior Laravel Developer** with over 5+ years of hands-on experience in 
 - **Waterfall Methodology:** Experienced in traditional Waterfall approach for structured project planning and execution.
 
 
-## 👀 I'm Interested In...
-- **Innovative Technologies**: Exploring the latest trends in web development.
-- **Open Source Projects**: Contributing to and learning from the community.
-- **Best Practices**: Enhancing development workflows and code quality.
+👀 **I'm Interested In...**
+- **Innovative Technologies:** Exploring the latest advancements in backend development and scalable solutions.
+- **Open Source Projects:** Contributing to impactful initiatives and collaborating with the community.
+- **Best Practices:** Continuously refining workflows and ensuring code quality for robust applications.
 
-## 🌱 Currently Learning...
-- **Advanced Laravel Techniques**: Mastering new features and best practices.
-- **DevOps Practices**: Implementing CI/CD pipelines and automating deployments.
-- **New Front-End Frameworks**: Expanding my skills beyond Laravel with Vue.js and React.
+🌱 **Currently Learning...**
+- **Advanced Laravel Techniques:** Mastering new features and best practices for optimal application performance.
+- **DevOps Practices:** Implementing CI/CD pipelines to enhance deployment processes.
+- **New Front-End Frameworks:** Expanding my skills with frameworks like Vue.js and React.
 
-## 💞️ Looking to Collaborate On...
-- **Open Source Projects**: Engaging with like-minded developers to build something impactful.
-- **Innovative CRM/ERP Solutions**: Working on cutting-edge systems and tools.
-- **Tech Talks and Workshops**: Sharing knowledge and learning from others.
+💞️ **Looking to Collaborate On...**
+- **Open Source Projects:** Engaging with fellow developers to create innovative solutions.
+- **Microservices Architecture:** Collaborating on projects that utilize microservices for scalability and performance.
+- **API Development:** Working on innovative APIs to enhance application functionality and integration.
+
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Neeraj Saini](https://www.linkedin.com/in/neeraj-saini/)
