@@ -18,7 +18,7 @@ I'm a **Senior Laravel Developer** with over 5+ years of hands-on experience in 
 - 🎯 **Experience**: 5+ years
 
 
-# Key Skills
+## Key Skills
 
 - **PHP & Laravel:** Proficient in developing and maintaining complex applications with the Laravel framework.
   
@@ -35,17 +35,17 @@ I'm a **Senior Laravel Developer** with over 5+ years of hands-on experience in 
 - **Waterfall Methodology:** Experienced in traditional Waterfall approach for structured project planning and execution.
 
 
-👀 **I'm Interested In...**
+## 👀 I'm Interested In...
 - **Innovative Technologies:** Exploring the latest advancements in backend development and scalable solutions.
 - **Open Source Projects:** Contributing to impactful initiatives and collaborating with the community.
 - **Best Practices:** Continuously refining workflows and ensuring code quality for robust applications.
 
-🌱 **Currently Learning...**
+## 🌱 Currently Learning...
 - **Advanced Laravel Techniques:** Mastering new features and best practices for optimal application performance.
 - **DevOps Practices:** Implementing CI/CD pipelines to enhance deployment processes.
 - **New Front-End Frameworks:** Expanding my skills with frameworks like Vue.js and React.
 
-💞️ **Looking to Collaborate On...**
+## 💞️ Looking to Collaborate On...
 - **Open Source Projects:** Engaging with fellow developers to create innovative solutions.
 - **Microservices Architecture:** Collaborating on projects that utilize microservices for scalability and performance.
 - **API Development:** Working on innovative APIs to enhance application functionality and integration.
