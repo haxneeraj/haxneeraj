@@ -53,5 +53,5 @@ I'm a **Senior Laravel Developer** with over 5+ years of hands-on experience in 
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Neeraj Saini](https://www.linkedin.com/in/neeraj-saini/)
-- **Twitter**: [@socreativeneeraj](https://twitter.com/socreativeneeraj)
+- **Twitter**: [@hax_neeraj](https://x.com/hax_neeraj)
 - **Email**: hax-neeraj@outlook.com
