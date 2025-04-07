@@ -55,3 +55,8 @@ I'm a **Senior Software Developer** with over 5+ years of hands-on experience in
 - **LinkedIn**: [Neeraj Saini](https://www.linkedin.com/in/neeraj-saini/)
 - **Twitter**: [@hax_neeraj](https://x.com/hax_neeraj)
 - **Email**: hax-neeraj@outlook.com
+
+
+![Profile views](https://komarev.com/ghpvc/?username=haxneeraj&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/haxneeraj?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/haxneeraj?style=social)
