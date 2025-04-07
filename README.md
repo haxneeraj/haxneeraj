@@ -57,6 +57,10 @@ I'm a **Senior Software Developer** with over 5+ years of hands-on experience in
 - **Email**: hax-neeraj@outlook.com
 
 
+![Laravel Lover](https://img.shields.io/badge/Laravel-Lover-red)
+
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=haxneeraj&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/haxneeraj?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/haxneeraj?style=social)
