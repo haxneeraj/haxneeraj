@@ -1,7 +1,7 @@
 # Hi there, I'm Neeraj Saini 👋
 
 ## 🚀 About Me
-I'm a **Senior Software Developer** with over 5+ years of hands-on experience in building robust, and high-performance web applications. My passion for coding and dedication to continuous learning drive my approach to web development, allowing me to deliver innovative solutions that meet diverse client needs.
+I'm a **Senior Software Developer** with over 6+ years of hands-on experience in building robust, and high-performance web applications. My passion for coding and dedication to continuous learning drive my approach to web development, allowing me to deliver innovative solutions that meet diverse client needs.
 
 - 💼 **Profession**: Senior Laravel Developer
 - 🌍 **Specialization**: 
