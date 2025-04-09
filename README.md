@@ -15,7 +15,7 @@ I'm a **Senior Software Developer** with over 6+ years of hands-on experience in
   - Monitoring and Logging
   - Security Best Practices
   - Continuous Integration/Continuous Deployment (CI/CD)
-- 🎯 **Experience**: 5+ years
+- 🎯 **Experience**: 6+ years
 
 
 ## Key Skills
