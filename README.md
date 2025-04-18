@@ -1,5 +1,9 @@
 # Hi there, I'm Neeraj Saini 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=haxneeraj&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/haxneeraj?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/haxneeraj?style=social)
+
 ## 🚀 About Me
 I'm a **Senior Software Developer** with over 6+ years of hands-on experience in building robust, and high-performance web applications. My passion for coding and dedication to continuous learning drive my approach to web development, allowing me to deliver innovative solutions that meet diverse client needs.
 
@@ -99,7 +103,6 @@ I'm a **Senior Software Developer** with over 6+ years of hands-on experience in
 ## 📫 How to Reach Me
 - **Email**: hax-neeraj@outlook.com
 
----
 
 ## 📫 Connect With Me
 
@@ -109,6 +112,4 @@ I'm a **Senior Software Developer** with over 6+ years of hands-on experience in
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=haxneeraj&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/haxneeraj?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/haxneeraj?style=social)
+
