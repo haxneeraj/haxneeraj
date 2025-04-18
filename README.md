@@ -10,7 +10,8 @@ I'm a **Senior Software Developer** with over 6+ years of hands-on experience in
   - Caching Strategies
   - Database Optimization
   - Asynchronous Processing
-  - API Development
+  -
+ API Development
   - Cloud Infrastructure
   - Monitoring and Logging
   - Security Best Practices
@@ -82,8 +83,8 @@ I'm a **Senior Software Developer** with over 6+ years of hands-on experience in
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haxneeraj&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haxneeraj&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haxneeraj&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haxneeraj&theme=radical" width="49%" />
 </p>
 
 ---
